@@ -1,4 +1,4 @@
-# Enterprise-Turnover-Analytics.
+# Enterprise-Turnover-Analytics
 
 **[View Live Dashboard](https://public.tableau.com/app/profile/janhavi.chaudhari/viz/Enterprise-Turnover-Analytics_/Dashboard1)**
 
