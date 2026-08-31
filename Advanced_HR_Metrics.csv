@@ -1,0 +1,6 @@
+Department,Headcount,Dept_Attrition_Pct,Variance_From_Average,Risk_Rank
+Sales,316,27.22,5.32,1
+HR,105,20.95,-0.95,2
+IT,145,20.0,-1.9,3
+Finance,146,19.18,-2.72,4
+R&D,288,18.75,-3.15,5
